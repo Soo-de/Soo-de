@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=hello!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/cf61b8e4-e0d3-4811-9e08-9acd0df4fa59" width="100%" alt="Header Image" />
 </div>
 
 <br/>
