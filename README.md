@@ -6,24 +6,25 @@
 
 <pre>
 whoami:
-  status: "3rd-year computer engineering student 🎓"
+  status: "4rd-year computer engineering student 🎓"
   core_interests: ["IoT & Embedded", "Networking", "DevOps"]
   mindset: "always exploring, never strictly limited to one field 🪴"
 </pre>
 
 ---
 
-### ☁️ about me
+### 🌟 My Interests
 
-I'm a computer engineering student who loves exploring the background infrastructure of software. While my current focus is heavily on **IoT, embedded systems, networking, and DevOps**, I try not to limit myself to a single domain. I really enjoy jumping into new concepts and seeing how different engineering fields connect to one another.
-
-Right now, my main motivation is figuring out how things work under the hood—especially understanding the complete journey of data, from a physical edge device all the way to the cloud. 
+* 🔌 **IoT & Embedded Systems**
+* 📡 **Network & Communication Protocols**
+* ☁️ **DevOps & Cloud Infrastructure**
+* 🌉 **Bridging the gap between hardware and software**
 
 ---
 
-### 🛠️ tech stack
+### 🛠️ Tech Stack
 
-**languages & frameworks**
+**Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -33,14 +34,14 @@ Right now, my main motivation is figuring out how things work under the hood—e
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
-**iot, hardware & protocols**
+**IoT, Hardware & Protocols**
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/UART%20%2F%20I2C%20%2F%20SPI-4A90E2?style=flat-square"/>
 </p>
 
-**devops & infrastructure**
+**DevOps & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
@@ -50,7 +51,7 @@ Right now, my main motivation is figuring out how things work under the hood—e
 
 ---
 
-### 👾 featured projects
+### 📌 Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -59,15 +60,24 @@ Right now, my main motivation is figuring out how things work under the hood—e
 
 ---
 
-### 📊 github stats
+### 💼 Let's Connect!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soo-de&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soo-de&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sude-andurman-800-63-/"><img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:suandurman@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <sub>~ writing code, tinkering with systems, and learning along the way ~</sub>
-</div>
+### 💖 A little more about me...
+
+* 🤝 I thrive in collaborative environments—there's nothing quite like brainstorming, sharing knowledge, and bringing a project to life with a team.
+* 📔 I'm a big fan of journaling and keeping my ideas organized.
+* 🎾 When I'm away from the keyboard, I love staying active on the tennis or volleyball court.
+* 🎮 Winding down for me usually means jumping into online games with my friends.
+
+---
+
+### ✨ Motto of the Day
+
+> *"As you work hard in life, you might feel a little tired sometimes. It's okay, it happens."* 🍀
