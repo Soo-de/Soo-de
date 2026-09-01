@@ -6,7 +6,7 @@
 
 <pre>
 whoami:
-  status: "4rd-year computer engineering student 🎓"
+  status: "4th-year computer engineering student 🎓"
   core_interests: ["IoT & Embedded", "Networking", "DevOps"]
   mindset: "always exploring, never strictly limited to one field 🪴"
 </pre>
